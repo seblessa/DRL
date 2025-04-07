@@ -34,7 +34,7 @@ class GAN:
     def denormalize(self, images):
         return (images * 0.5) + 0.5
 
-    def fit(self, dataframe, batch_size=128, epochs=25,
+    def fit(self, dataframe, batch_size=128, epochs=100,
         lr_gen=0.0003, lr_disc=0.0012,
         val_split=0.1,
         label_smoothing=True, clip_grad=True, max_norm=1.0,
