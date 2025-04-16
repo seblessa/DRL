@@ -1,5 +1,5 @@
 # Deep Learning
-Assignment for Deep and Reinforcement Learning Class, 1º Year,2º Semester, Masters in Artificial Intelligence 
+Assignment for Deep and Reinforcement Learning Class, 1º Year, 2º Semester, Masters in Artificial Intelligence 
 
 # Summary
 
